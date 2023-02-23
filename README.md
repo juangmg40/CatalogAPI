@@ -1,2 +1,2 @@
 # CatalogAPI
-CatalogAPI .Net 6 Entity framewor
+CatalogAPI .Net 6 --> Entity framework +  SQL Server
